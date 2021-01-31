@@ -1,1 +1,2 @@
-# Project_36
+# Project-36
+Virtual Pet - 2
